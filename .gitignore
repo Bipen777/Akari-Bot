@@ -146,9 +146,7 @@ cython_debug/
 
 #other
 requirements.txt
-osu-sheet-bot-63d71eb33329.json
 setup.bat
-settings.py
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
